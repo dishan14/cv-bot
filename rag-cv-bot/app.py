@@ -8,7 +8,7 @@ from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 
 # 1 Load docs
-loader1 = PyPDFLoader("cv.pdf")
+loader1 = PyPDFLoader("data/Dishan_Shukla_new_cv.pdf")
 loader2 = TextLoader("data/job_descriptions.txt")
 docs = loader1.load() + loader2.load()
 

@@ -1,0 +1,103 @@
+Job Description
+
+Revolutionize AI and machine learning to solve complex problems and promote innovation.
+
+As a Senior Applied AI/ML Associate within our dynamic team of innovators and technologists, you will revolutionize how the Private Bank services and advises clients, deepen client engagements, and promote process transformation. You will analyze existing processes and vast amounts of data to design autonomous AI agents, leveraging advanced data analysis, statistical modeling, and AI/ML techniques to solve complex business challenges through high-quality, cloud-centric software delivery.
+
+Job Responsibilities
+
+Develop and implement GenAI and Agentic AI solutions using Python to enhance automation and decision-making processes.
+Collaborate with internal stakeholders to identify business needs and develop NLP/ML solutions that address client needs and drive transformation.
+Apply large language models (LLMs), machine learning (ML) techniques, and statistical analysis to enhance informed decision-making and improve workflow efficiency, which can be utilized across investment functions, client services, and operational process.
+Collect and curate datasets for model training and evaluation.
+Perform experiments using different model architectures and hyperparameters, determine appropriate objective functions and evaluation metrics, and run statistical analysis of results.
+Monitor and improve model performance through feedback and active learning.
+Collaborate with technology teams to deploy and scale the developed models in production.
+Deliver written, visual, and oral presentation of modeling results to business and technical stakeholders.
+Stay up-to-date with the latest research in LLM, ML and data science. Identify and leverage emerging techniques to drive ongoing enhancement.
+
+Planet DDS is a leading provider of a platform of cloud-based solutions that empowers growth-minded dental businesses. Now serving over 13,000 practices and 118,000 customers in North America, Planet DDS delivers a comprehensive suite of solutions, including Denticon Practice Management, Cloud 9 Ortho Practice Management, and Apteryx Cloud Imaging. Planet DDS is dedicated to enabling dental support organizations (DSOs) and groups to grow and thrive with technology that delivers seamless integrations, improved workflows, and future-proof scalability.
+
+We are seeking an AI Software Engineer III. In this role, you will be responsible for designing, developing, and deploying robust AI and machine learning solutions that drive product innovation and intelligent automation. You will collaborate cross-functionally to bring cutting-edge technologies to life in scalable production systems.
+
+This is a permanent hybrid role with 1-2 days in the Glasgow office.
+
+Job Duties
+
+Design, develop, and deploy AI and machine learning models in production environments 
+Architect scalable solutions that integrate AI capabilities into our products and services 
+Collaborate with data scientists, product managers, and backend/front-end engineers to translate prototypes into reliable, maintainable code 
+Own end-to-end development of AI systems, including data ingestion, model training, evaluation, and deployment 
+Implement best practices in model versioning, monitoring, and continuous improvement 
+Contribute to the evolution of our AI/ML infrastructure, including CI/CD pipelines and MLOps tools 
+Stay current on advancements in AI, ML, and deep learning and assess their applicability to business needs 
+Ensure AI solutions are ethical, interpretable, and aligned with regulatory requirements 
+
+We’re looking for a talented and forward-thinking AI Engineer to join our innovative team in the Newcastle or Erskine area. This is a unique opportunity to work on cutting-edge AI technologies and contribute to transformative projects across multiple domains.
+
+Key Responsibilities
+
+Design, develop, and optimize Transformer-based architectures (GPT, LLaMA, Mistral, Claude)
+Fine-tune large language models for domain-specific applications
+Implement advanced prompt engineering strategies
+Leverage Retrieval-Augmented Generation (RAG) for enhanced contextual performance
+Build intelligent agents using frameworks like LangChain, LlamaIndex, CrewAI, AutoGen
+Apply reinforcement learning techniques including Q-learning, policy gradients, and RLlib
+Collaborate with cross-functional teams to integrate AI solutions into scalable products
+Ensure best practices in data engineering and contribute to architectural decisions
+Contribute to the mentoring and development of junior team members.
+Support senior team members in identifying and addressing data science opportunities.
+
+Essential Functions
+
+Develop, test, and deploy LLM-powered extraction pipelines for clinical text at scale.
+Automate prompt execution, result validation, and error handling to enhance reliability.
+Monitor and maintain production AI models, ensuring uptime, accuracy, and compliance.
+Work with product, data, engineering, and clinical teams to integrate AI outputs into real-world solutions.
+Evaluate and integrate third-party AI solutions when appropriate.
+Stay current with advancements in LLM deployment, model serving, and responsible AI practices.
+
+
+Job Description
+Join us to shape the future of banking through cutting-edge AI and machine learning. You’ll collaborate with a dynamic team of data scientists, engineers, and product managers to create impactful products for our operations teams. This is your opportunity to work on unique financial datasets and deliver solutions that make a measurable difference. We value your curiosity and passion for both theory and hands-on development. Discover career growth and the chance to influence how banking is done.
+
+As an Applied AI & Machine Learning Associate supporting Markets Operations, you will design, develop, and deploy machine learning products that enhance our corporate and investment banking services. You’ll work closely with cross-functional teams to deliver scalable solutions and drive operational transformation. Your contributions will directly impact how we serve clients and manage behind-the-scenes operations. We foster a collaborative environment where your ideas and expertise are valued.
+
+You’ll have wide open problems to solve, so you’ll need to be comfortable with ambiguity, figuring out an approach and validating it fast. You’ll stay up to date with changes in the field, using your knowledge of state-of-the-art techniques to solve problems. LLMs will be your bread and butter, customized with advanced RAG techniques, finetuning and reinforcement learning. You’ll work closely with other engineers to build fast, and you’ll use Python and Kubernetes to deploy systems in production.
+
+
+What you'll do
+Work with a high performance team of LLM, MLOps, backend and front end engineers
+Tackle the biggest problems facing the company, giving a wide experience across the business, with the freedom to define novel approaches
+Work to help LLMs understand and interact with the millions of lines of code that run Kraken, leveraging techniques at the cutting-edge of the technology like GraphRAG, agentic workflows, finetuning, and reinforcement learning
+Use classic ML and NLP techniques to complement and improve LLM systems
+Act as a center of excellence for the whole business in AI, as a floating resource that consults other teams use of LLMs and lifts the quality of products around the whole business
+Be on the forefront of understanding AI advancements and their technical implications for the team and business
+
+Meta is seeking talented engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will have the opportunity to work on complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we're looking for passionate individuals who can help us advance the way people connect globally. If you're interested in joining a world-class team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.
+
+Software Engineer, Machine Learning Responsibilities:
+
+Collaborate with cross-functional teams (product, design, operations, infrastructure) to build innovative application experiences
+Implement custom user interfaces using latest programming techniques and technologies
+Analyze and optimize code for quality, efficiency, and performance, and provide feedback to peers during code reviews
+Set direction and goals for teams, lead major initiatives, provide technical guidance and mentorship to peers, and help onboard new team members
+Architect efficient and scalable systems that drive complex applications
+Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debt
+Work on a variety of coding languages and technologies
+Establish ownership of components, features, or systems with expert end-to-end understanding
+
+The Machine Learning Scientist II role sits on the Content Relevance Ranking AI team in the Expedia Technology division of Expedia Group. This team develops and optimizes ranking models with state-of-the-art machine learning techniques to power the selection and ranking of property images and reviews for the multiple brands in our portfolio.
+
+In this role, your expertise and passion for innovation, developing cutting-edge technology and implementing industry-leading solutions, will improve the experience of millions of travelers and travel partners each year. This is an applied research role: your models will be deployed to our production systems, and your results will be measured objectively via A/B testing, directly impacting our business results. We collaborate closely with the analytics, product, and engineering teams.
+
+In this role, you will
+
+Work with product management to understand business problems, identify challenges and machine learning opportunities, and scope solutions. 
+Conduct exploratory data analysis, formulate machine learning problems, and build effective models. 
+Partner with data and software engineering teams to deliver your solutions into production. 
+Develop a deep understanding of our data and ML infrastructure 
+Document the technical details of your work 
+Present your ideas and results to product management, stakeholders, and leadership teams in a clear and effective manner. 
+Collaborate and brainstorm with other team members and across the company 
+Stay current with advances in ML and GenAI to drive innovation within the team.
