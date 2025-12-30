@@ -5,3 +5,4 @@ langchain_text_splitters
 langchain-chroma
 langchain-classic
 pypdf
+sentence-transformers
