@@ -1,3 +1,4 @@
 langchain
 langchain-community
 langchain-groq
+langchain_text_splitters
