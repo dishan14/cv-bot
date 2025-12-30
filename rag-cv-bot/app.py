@@ -3,7 +3,7 @@ from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
-from langchain.llms import Groq
+from langchain_groq import ChatGroq
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 
@@ -22,7 +22,7 @@ vectordb = Chroma.from_documents(chunks, embed, persist_directory="db")
 vectordb.persist()
 
 # 4 LLM
-llm = Groq(model="llama3-8b-8192", temperature=0.3, groq_api_key=st.secrets["GROQ"])
+llm = ChatGroq(model="llama3-8b-8192", temperature=0.3, groq_api_key=st.secrets["GROQ"])
 
 # 5 Prompt
 template = """You are an expert recruiter. Use ONLY the CV and JDs below to answer.
