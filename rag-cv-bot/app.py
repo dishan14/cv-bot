@@ -9,7 +9,7 @@ from langchain_core.prompts import PromptTemplate
 
 # 1 Load docs
 loader1 = PyPDFLoader("rag-cv-bot/data/Dishan_Shukla_new_cv.pdf") 
-loader2 = TextLoader("rag-cv-bot/data/job_descriptions.txt")
+loader2 = TextLoader("rag-cv-bot/data/jds.txt")
 docs = loader1.load() + loader2.load()
 
 # 2 Split
